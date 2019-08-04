@@ -38,7 +38,8 @@ header a {
 }
 
 .portrait {
-    width: 250px;
+    background-image: url(img/goku.jpg);
+    width: 500px
 }
 
 input {
